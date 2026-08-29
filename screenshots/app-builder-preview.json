@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ner Tamid",
+      "hasCanvas": false,
+      "bodyTextLen": 1284,
+      "bodyTextHash": "c3653697290c0a9bf313e60756d58e45afd781d73f9964567744985b8fff7c3d",
+      "bodyTextPrefix": "Ner Tamid Forever Light Skokie נר תמיד י״א אלול תשפ״ו 11th of El",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ner Tamid",
+      "hasCanvas": false,
+      "bodyTextLen": 1284,
+      "bodyTextHash": "c3653697290c0a9bf313e60756d58e45afd781d73f9964567744985b8fff7c3d",
+      "bodyTextPrefix": "Ner Tamid Forever Light Skokie נר תמיד י״א אלול תשפ״ו 11th of El",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
