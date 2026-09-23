@@ -1,0 +1,30 @@
+{
+  "name": "Ner Tamid",
+  "short_name": "Ner Tamid",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1c140e",
+  "theme_color": "#11100e",
+  "icons": [
+    {
+      "src": "/icons/apple-touch-icon-v3-20260923.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-192-v3-20260923.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512-v3-20260923.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
